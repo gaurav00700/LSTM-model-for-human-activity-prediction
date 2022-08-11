@@ -1,0 +1,1 @@
+# LSTM-model-for-human-activity-prediction
